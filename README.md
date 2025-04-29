@@ -29,7 +29,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/jmodhiambo](https://www.linkedin.com/in/martin-odhiambo-13b04817b/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-odhiambo-13b04817b/)
 - 📧 Email: [jmodhiambo9346@gmail.com](mailto:jmodhiambo9346@gmail.com)
 
 ---
