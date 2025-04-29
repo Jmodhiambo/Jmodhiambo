@@ -33,7 +33,7 @@
 
 ## 🧮 GitHub Metrics
 
-![Metrics](https://github.com/jmodhiambo/jmodhiambo/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Jmodhiambo/Jmodhiambo/blob/generated/github-metrics.svg)
 
 ---
 
