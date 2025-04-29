@@ -1,59 +1,35 @@
-<h1>Hi, I'm Martin! <br/><a href="https://github.com/Jmodhiambo">Upcoming Programmer</a>, <a href="https://github.com/Jmodhiambo">Video Editor</a>, <a href="https://github.com/Jmodhiambo">Article Writer </a></h1>
-  
-<h2>📽️ Video Editing Projects:</h2>
+# Hi there, I'm Martin Odhiambo 👋
 
- - [Instagram Videos](https://www.instagram.com/rejuvenationclinic_/)
- 
-<h2>📺 Popular YouTube Videos</h2>
+🎓 **Software Engineering Student** @ ALX (Graduating July 2025) | **Backend Developer**  
+💡 I enjoy building clean backend systems, solving real-world problems with code, and diving deep into system-level programming.  
+🌍 Based in Kenya | 🧠 Always learning, always growing
 
-- [ALX Foundations Project](https://www.youtube.com/watch?v=KJLrvu4-wvk)
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 💼 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
+![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnu-bash)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
+![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
-[<img align="left" alt="Jmodhiambo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Jmodhiambo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jmodhiambo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jmodhiambo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
+## 📈 GitHub Stats
 
-[twitter]: https://
-[youtube]: https://
-[instagram]: https://
-[linkedin]: https://linkedin.com/in/martin-odhiambo-13b04817b/
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmodhiambo&show_icons=true&theme=github_dark&count_private=true)
 
+---
 
+## 📫 Let's Connect
 
-<!--
-**Jmodhiambo/Jmodhiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 [LinkedIn]([https://linkedin.com/in/jmodhiambo](https://www.linkedin.com/in/martin-odhiambo-13b04817b/))
+- 📧 Email: [jmodhiambo@example.com](mailto:jmodhiambo@example.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  -->
+---
