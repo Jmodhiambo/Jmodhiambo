@@ -25,6 +25,16 @@
 
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmodhiambo&show_icons=true&theme=github_dark&count_private=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=jmodhiambo&theme=github-dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jmodhiambo&layout=compact&theme=github_dark)
+
+---
+
+## 🧮 GitHub Metrics
+
+![Metrics](https://github.com/jmodhiambo/jmodhiambo/blob/main/github-metrics.svg)
+
 ---
 
 ## 📫 Let's Connect
