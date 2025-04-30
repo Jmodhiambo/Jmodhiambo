@@ -31,12 +31,6 @@
 
 ---
 
-## 🧮 GitHub Metrics
-
-![Metrics](https://github.com/Jmodhiambo/Jmodhiambo/blob/generated/github-metrics.svg)
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/martin-odhiambo-13b04817b/)
