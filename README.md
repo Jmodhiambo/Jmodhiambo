@@ -1,6 +1,6 @@
 # Hi there, I'm Martin Odhiambo 👋
 
-🎓 **Software Engineering Student** @ ALX (Graduating July 2025) | **Backend Developer**  
+🎓 **Software Engineering | **Backend Developer**  
 💡 I enjoy building clean backend systems, solving real-world problems with code, and diving deep into system-level programming.  
 🌍 Based in Kenya | 🧠 Always learning, always growing
 
