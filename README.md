@@ -18,6 +18,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+![Linux](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 
 ---
 
