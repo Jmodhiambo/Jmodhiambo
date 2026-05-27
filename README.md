@@ -41,7 +41,7 @@
 ### 🔹 [DevSaver](https://github.com/jmodhiambo/devsaver)
 A developer resource center built to simplify access to curated tools and learning materials.
 
-### 🔹 Event Ticketing MVP
+### 🔹 Event Ticketing MVP: [Frontend](https://github.com/Jmodhiambo/mgl-frontend) & [Backend](https://github.com/Jmodhiambo/mgl-backend)
 A full‑stack ticket booking platform designed for the East African market.
 
 ---
